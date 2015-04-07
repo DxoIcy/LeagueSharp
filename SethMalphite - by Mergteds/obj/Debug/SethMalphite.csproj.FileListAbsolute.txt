@@ -1,0 +1,12 @@
+C:\Users\--\Documents\Visual Studio 2013\Projects\SethMalphite\bin\Debug\SethMalphite.exe.config
+C:\Users\--\Documents\Visual Studio 2013\Projects\SethMalphite\bin\Debug\SethMalphite.exe
+C:\Users\--\Documents\Visual Studio 2013\Projects\SethMalphite\bin\Debug\SethMalphite.pdb
+C:\Users\--\Documents\Visual Studio 2013\Projects\SethMalphite\bin\Debug\LeagueSharp.Common.dll
+C:\Users\--\Documents\Visual Studio 2013\Projects\SethMalphite\bin\Debug\LeagueSharp.dll
+C:\Users\--\Documents\Visual Studio 2013\Projects\SethMalphite\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\--\Documents\Visual Studio 2013\Projects\SethMalphite\bin\Debug\SharpDX.dll
+C:\Users\--\Documents\Visual Studio 2013\Projects\SethMalphite\bin\Debug\clipper_library.dll
+C:\Users\--\Documents\Visual Studio 2013\Projects\SethMalphite\bin\Debug\LeagueSharp.Sandbox.dll
+C:\Users\--\Documents\Visual Studio 2013\Projects\SethMalphite\bin\Debug\LeagueSharp.xml
+C:\Users\--\Documents\Visual Studio 2013\Projects\SethMalphite\obj\Debug\SethMalphite.exe
+C:\Users\--\Documents\Visual Studio 2013\Projects\SethMalphite\obj\Debug\SethMalphite.pdb
